@@ -1,4 +1,4 @@
- #** Project: github user search.**
+** #Project: github user search.**
 
   *## Used technology:*
  * React
