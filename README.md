@@ -6,4 +6,4 @@
 * TypeScript
 * Redux Toolkit
 *RTKQuery
-+Tailwind
+ Tailwind
