@@ -1,6 +1,6 @@
-**# Project: github user search.**
+ **# Project: github user search.**
 
-*## Used technology:*
+  *## Used technology:*
  * React
  * TypeScript
  * Redux Toolkit
