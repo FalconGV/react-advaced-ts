@@ -1,8 +1,6 @@
-
-
-**# Project: github user search.**    
+**# Project: github user search.**
 *## Used technology:*
-- React
+ * React
 * TypeScript
 * Redux Toolkit
 *RTKQuery
